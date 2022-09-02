@@ -16,7 +16,6 @@
 
 [![Psami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psami-wondah&show_icons=true&theme=dark&count_private=true)](https://github.com/Psami-wondah/github-readme-stats&show_icons=true&theme=dark&count_private=true)
 
-[![Psami's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Psami-wondah&langs_count=5&show_icons=true&theme=cobalt)](https://github.com/Psami-wondah/github-readme-stats)
 
 
 
