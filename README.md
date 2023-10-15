@@ -3,11 +3,10 @@
 
 
 
-- 🔭 I’m currently working at Alajo Technologies Limited
+- 🔭 I’m currently working at Slydo
 -    I'm a Fullstack developer
 -    I use NextJs/ ReactJs/ Typescript
 -    I also work with Django/FastApi/Flask/Python
-- 🌱 I’m currently learning containerization on udacity ALX-T
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything
 - 📫 How to reach me: +2347089954501 okechukwusamuel16@gmail.com
