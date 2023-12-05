@@ -3,11 +3,8 @@
 
 
 
-- 🔭 I’m currently working at Slydo
--    I'm a Fullstack developer
--    I use NextJs/ ReactJs/ Typescript
--    I also work with Django/FastApi/Flask/Python
-- 👯 I’m looking to collaborate on open source projects.
+-   I'm Okechukwu Samuel Owhondah
+- 🔭 I’m currently working as a Frontend Developer Intern Zimmerman B.V
 - 💬 Ask me about anything
 - 📫 How to reach me: +2347089954501 okechukwusamuel16@gmail.com
 - 😄 Pronouns: Him/His
